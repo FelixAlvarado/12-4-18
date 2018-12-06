@@ -1,0 +1,3 @@
+WebRTC
+
+Communication between browsers without a server (the servers are still needed to initiate the process)
